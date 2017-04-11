@@ -8,9 +8,10 @@
 **メール**: T [dot] Igwe [at] liv [dot] ac [dot] uk 
 
 
-| **Office** : Room 3.14,
+| **事務所** : Room 3.14,
 | Department of Computer Science,
 | Ashton Building,
 | University of Liverpool, 
 | Liverpool, L69 3BX. 
 | United Kingdom. 
+| **電話**:+44(0)151-795-4281

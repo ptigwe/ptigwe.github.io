@@ -5,7 +5,6 @@
 :slug: about
 :lang: ja
 
-I am currently a PhD student at the University of Liverpool under the
-supervision of Dr. Rahul Savani and Dr. Martin Gairing. My research area is
-focused on Computational Game Theory, more specifically, I am interested in
-problems relating to computation of equilibrium.
+現在リバプール大学でサバニ博士とゲーリング博士の元で博士号を勉強している。イグエ・
+トベンナ・ペーターです。研究テーマはゲーム理論、具体的では近似ナッシュ平衡の経験
+的解析。

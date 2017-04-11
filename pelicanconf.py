@@ -28,7 +28,8 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 
 # Social widget
 SOCIAL = (('twitter', 'https://twitter.com/ptigwe'),
-        ('github', 'https://github.com/ptigwe'),)
+        ('github', 'https://github.com/ptigwe'),
+        ('rss', 'feeds/all.atom.xml'),)
 
 DEFAULT_PAGINATION = 10
 
