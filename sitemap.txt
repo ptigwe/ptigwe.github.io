@@ -8,3 +8,5 @@ https://ptigwe.github.io/tags.html
 https://ptigwe.github.io/categories.html
 https://ptigwe.github.io/pages/about.html
 https://ptigwe.github.io/pages/contact.html
+https://ptigwe.github.io/pages/research.html
+https://ptigwe.github.io/pages/teaching.html
